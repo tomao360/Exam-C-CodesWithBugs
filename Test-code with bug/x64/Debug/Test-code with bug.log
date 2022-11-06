@@ -1,0 +1,5 @@
+﻿  Code1.c
+  Code3.c
+C:\Users\97252\source\repos\Test-code with bug\Test-code with bug\Code3.c(38,17): warning C4101: 'ch': unreferenced local variable
+  Generating Code...
+  Test-code with bug.vcxproj -> C:\Users\97252\source\repos\Test-code with bug\x64\Debug\Test-code with bug.exe
